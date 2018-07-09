@@ -1,3 +1,5 @@
+// You're good enough, you're smart enough, and doggone it, people like you.
+
 package com.spiny.lizard;
 
 import org.springframework.boot.SpringApplication;
